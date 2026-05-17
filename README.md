@@ -1,1 +1,12 @@
 # printparams
+
+Write a program that prints the arguments received in the command line.
+
+Example of output :
+$ go run . choumi is the best cat
+choumi
+is
+the
+best
+cat
+$
